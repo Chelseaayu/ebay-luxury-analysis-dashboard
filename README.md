@@ -1,6 +1,6 @@
 # eBay Luxury Sales Analytics Dashboard
 
-> **Data Science Portfolio Project** — End-to-end analysis of a luxury goods eBay seller covering 250+ transactions across Jan–Dec 2024.
+> **Data Analyst Project** — End-to-end analysis of a luxury goods eBay seller covering 250+ transactions across Jan–Dec 2024.
 
 **[Live Demo →](https://your-project.vercel.app)**
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project demonstrates a complete data pipeline — from raw eBay export data to a production-ready interactive dashboard — built to answer three core business questions:
+This project demonstrates a complete data pipeline from raw eBay export data to a production-ready interactive dashboard, built to answer three core business questions:
 
 1. Which brands and product categories drive the most revenue?
 2. Who are the highest-value buyers and how loyal are they?
@@ -89,7 +89,7 @@ luxury-dashboard/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/luxury-dashboard.git
+git clone https://github.com/Chelseaayu/ebay-luxury-analysis-dashboard.git
 cd luxury-dashboard
 ```
 
@@ -223,4 +223,4 @@ This project is for portfolio purposes. Data has been anonymized — seller iden
 
 ---
 
-*Built by [Your Name] · [LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio.com)*
+*Built by [Chelsea and Kiro AI] · [LinkedIn](https://www.linkedin.com/in/chelseaayu) · [Portfolio](https://chelsea-ayu.vercel.app/)*

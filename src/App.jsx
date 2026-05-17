@@ -33,7 +33,7 @@ const STATE_FIPS = {
 
 const CONTENT = {
   en: {
-    badge: 'Data Science Portfolio',
+    badge: 'Data Analyst Project',
     h1a: 'eBay Luxury Sales', h1b: 'Analytics Dashboard',
     pills: ['250+ Transactions','Jan – Dec 2024','$1M+ Revenue','Live from Supabase'],
     langBtn: '🇮🇩 Bahasa Indonesia',
@@ -94,10 +94,10 @@ const CONTENT = {
       { icon:'✅', title:'Authentication = Higher Prices', text:'Items with Passed authentication status command higher average prices and sell faster — a key trust signal for luxury buyers.' },
       { icon:'🌍', title:'International Demand is Real', text:'Buyers from UK, Australia, UAE and Asia show consistent purchasing patterns. Expanding international options could unlock significant upside.' },
     ],
-    footerText: 'Data Science Portfolio · Built with React, Recharts, react-simple-maps, Supabase & Vite',
+    footerText: 'Data Analyst Project · Built with React, Recharts, react-simple-maps, Supabase & Vite',
   },
   id: {
-    badge: 'Portofolio Data Science',
+    badge: 'Proyek Data Analyst',
     h1a: 'Analisis Penjualan Mewah', h1b: 'Dashboard eBay',
     pills: ['250+ Transaksi','Jan – Des 2024','Pendapatan $1M+','Data Langsung dari Supabase'],
     langBtn: '🇬🇧 English',
@@ -158,7 +158,7 @@ const CONTENT = {
       { icon:'✅', title:'Autentikasi = Harga Lebih Tinggi', text:'Item dengan status autentikasi "Passed" memiliki harga rata-rata lebih tinggi dan terjual lebih cepat — sinyal kepercayaan kunci.' },
       { icon:'🌍', title:'Permintaan Internasional Nyata', text:'Pembeli dari UK, Australia, UAE, dan Asia menunjukkan pola pembelian konsisten. Memperluas opsi pengiriman internasional berpotensi besar.' },
     ],
-    footerText: 'Portofolio Data Science · Dibangun dengan React, Recharts, react-simple-maps, Supabase & Vite',
+    footerText: 'Data Analyst Project · Dibangun dengan React, Recharts, react-simple-maps, Supabase & Vite',
   }
 }
 
