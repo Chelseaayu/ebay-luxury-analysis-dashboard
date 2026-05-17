@@ -2,7 +2,7 @@
 
 > **Data Analyst Project** — End-to-end analysis of a luxury goods eBay seller covering 250+ transactions across Jan–Dec 2024.
 
-**[Live Demo →](https://luxury-analysis-dashboard.vercel.app/)**
+**[Live Demo →]https://luxury-analysis-dashboard.vercel.app/**
 
 ---
 
