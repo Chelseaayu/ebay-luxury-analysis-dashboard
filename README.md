@@ -2,7 +2,7 @@
 
 > **Data Analyst Project** — End-to-end analysis of a luxury goods eBay seller covering 250+ transactions across Jan–Dec 2024.
 
-**[Live Demo →](https://your-project.vercel.app)**
+**[Live Demo →](https://luxury-analysis-dashboard.vercel.app/)**
 
 ---
 
@@ -223,4 +223,4 @@ This project is for portfolio purposes. Data has been anonymized — seller iden
 
 ---
 
-*Built by [Chelsea and Kiro AI] · [LinkedIn](https://www.linkedin.com/in/chelseaayu) · [Portfolio](https://chelsea-ayu.vercel.app/)*
+*Built by Chelsea and Kiro AI · [LinkedIn](https://www.linkedin.com/in/chelseaayu) · [Portfolio](https://chelsea-ayu.vercel.app/)*
