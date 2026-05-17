@@ -1,0 +1,22 @@
+{
+  "name": "luxury-dashboard",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~6.0.2",
+    "vite": "^8.0.12"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.105.4",
+    "d3-scale": "^4.0.2",
+    "lucide-react": "^1.16.0",
+    "react-simple-maps": "^3.0.0",
+    "recharts": "^3.8.1"
+  }
+}
